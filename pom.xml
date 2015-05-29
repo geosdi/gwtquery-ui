@@ -37,10 +37,15 @@
     </modules>
 
     <distributionManagement>
-        <repository>
+        <!--        <repository>
             <uniqueVersion>false</uniqueVersion>
             <id>googlecode</id>
             <url>svn:https://gwtquery-ui.googlecode.com/svn/mavenrepo/</url>
+        </repository>-->
+        <repository>
+            <uniqueVersion>false</uniqueVersion>
+            <id>geosdi</id>
+            <url>ftp://repo.geosdi.org/</url>
         </repository>
     </distributionManagement>
 
@@ -127,7 +132,7 @@
             </activation>
 
             <properties>
-                <gwt.version>2.2.0</gwt.version>
+                <gwt.version>2.7.0</gwt.version>
                 <gwtquery.groupId>com.googlecode.gwtquery</gwtquery.groupId>
                 <gwtquery.version>1.0.0</gwtquery.version>
                 <gwtquery.classifier>2.2.0</gwtquery.classifier>
@@ -140,7 +145,7 @@
         <profile>
             <id>dev</id>
             <properties>
-                <gwt.version>2.2.0</gwt.version>
+                <gwt.version>2.7.0</gwt.version>
                 <gwtquery.groupId>com.googlecode.gwtquery</gwtquery.groupId>
                 <gwtquery.version>1.0.0</gwtquery.version>
                 <gwtquery.classifier>2.2.0</gwtquery.classifier>
