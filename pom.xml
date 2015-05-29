@@ -141,7 +141,7 @@
                 <gwt.version>2.7.0</gwt.version>
                 <gwtquery.groupId>com.googlecode.gwtquery</gwtquery.groupId>
                 <gwtquery.version>1.0.0</gwtquery.version>
-                <gwtquery.classifier>2.2.0</gwtquery.classifier>
+                <gwtquery.classifier>2.3.0</gwtquery.classifier>
                 <gwt.loglevel>INFO</gwt.loglevel>
                 <gwt.outputstyle>PRETTY</gwt.outputstyle>
                 <gwt.modulesuffix />
@@ -154,7 +154,7 @@
                 <gwt.version>2.7.0</gwt.version>
                 <gwtquery.groupId>com.googlecode.gwtquery</gwtquery.groupId>
                 <gwtquery.version>1.0.0</gwtquery.version>
-                <gwtquery.classifier>2.2.0</gwtquery.classifier>
+                <gwtquery.classifier>2.3.0</gwtquery.classifier>
                 <gwt.loglevel>WARN</gwt.loglevel>
                 <gwt.modulesuffix>Dev</gwt.modulesuffix>
                 <gwt.outputstyle>PRETTY</gwt.outputstyle>
@@ -167,7 +167,7 @@
                 <gwt.version>2.7.0</gwt.version>
                 <gwtquery.groupId>com.googlecode.gwtquery</gwtquery.groupId>
                 <gwtquery.version>1.0.0</gwtquery.version>
-                <gwtquery.classifier>2.2.0</gwtquery.classifier>
+                <gwtquery.classifier>2.3.0</gwtquery.classifier>
                 <gwt.loglevel>ERROR</gwt.loglevel>
                 <gwt.outputstyle>OBF</gwt.outputstyle>
                 <gwt.modulesuffix />

@@ -14,7 +14,7 @@
             <groupId>${gwtquery.groupId}</groupId>
             <artifactId>gwtquery</artifactId>
             <version>${gwtquery.version}</version>
-            <classifier>${gwt.version}</classifier>
+            <classifier>${gwtquery.classifier}</classifier>
         </dependency>
         <dependency>
             <groupId>com.google.gwt</groupId>
