@@ -1,8 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE module PUBLIC "-//Google Inc.//DTD Google Web Toolkit 2.4.0//EN" "http://google-web-toolkit.googlecode.com/svn/tags/2.4.0/distro-source/core/src/gwt-module.dtd">
 <module>
-  <inherits name='gwtquery.plugins.Ui' />
-  <public path="embedded"/>
-  <script src="jquery-ui/jquery-1.4.2.min.js" />
-  <script src="jquery-ui/jquery-ui-1.8.5.min.js" />
-</module>
     
+    <inherits name='gwtquery.plugins.Ui' />
+    <public path="embedded"/>
+  
+    <entry-point class="gwtquery.plugins.ui.GwtQueryUIPluginEntryPoint" />
+</module>
+
 

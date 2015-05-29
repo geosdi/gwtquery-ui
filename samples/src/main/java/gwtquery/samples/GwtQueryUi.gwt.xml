@@ -1,5 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE module PUBLIC "-//Google Inc.//DTD Google Web Toolkit 2.4.0//EN" "http://google-web-toolkit.googlecode.com/svn/tags/2.4.0/distro-source/core/src/gwt-module.dtd">
 <module>
-  <inherits name='gwtquery.plugins.UiGoogleCdn' />
+  <inherits name="gwtquery.plugins.UiEmbedded" />
   <entry-point class='gwtquery.samples.client.GwtQueryUiModule' />
   <script src="http://jqueryui.com/themeroller/themeswitchertool/"/>
   <stylesheet src="themes/base/jquery-ui.css" />

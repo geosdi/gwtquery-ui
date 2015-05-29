@@ -3,7 +3,7 @@
     <parent>
         <groupId>com.google.gwt</groupId>
         <artifactId>gwtquery-ui-parent</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>r147</version>
     </parent>
 
     <name>GwtQuery UI Plugin</name>
@@ -13,18 +13,18 @@
         <dependency>
             <groupId>${gwtquery.groupId}</groupId>
             <artifactId>gwtquery</artifactId>
-			<version>${gwtquery.version}</version>
-			<classifier>${gwt.version}</classifier>
+            <version>${gwtquery.version}</version>
+            <classifier>${gwt.version}</classifier>
         </dependency>
         <dependency>
             <groupId>com.google.gwt</groupId>
             <artifactId>gwt-user</artifactId>
-			<version>${gwt.version}</version>
+            <version>${gwt.version}</version>
         </dependency>
         <dependency>
             <groupId>com.google.gwt</groupId>
             <artifactId>gwt-servlet</artifactId>
-			<version>${gwt.version}</version>
+            <version>${gwt.version}</version>
         </dependency>        
     </dependencies>
     <build>
