@@ -6,3 +6,7 @@
 /.idea
 /gwtquery-ui-parent.iml
 # Created by .ignore support plugin (hsz.mobi)
+/samples/target/
+/plugin/target/
+/.settings/
+/.idea/
