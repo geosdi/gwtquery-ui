@@ -44,8 +44,8 @@
         <!--.................................. -->
         <repository>
             <id>geosdi-realese</id>
-            <name>repo.geosdi.org-releases</name>
-            <url>https://repo.geosdi.org/repository/geosdi-releases</url>
+            <name>repo.geosdi.org-releases</name> k
+            <url>https://repo.geosdi.org/repository/geosdi-releases/</url>
         </repository>
     </distributionManagement>
 
